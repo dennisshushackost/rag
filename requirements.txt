@@ -1,4 +1,4 @@
-pdfplumber==1.23.26
+pdfplumber
 nltk
 matplotlib==3.8.3
 numpy==1.26.4
